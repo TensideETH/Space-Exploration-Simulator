@@ -1,0 +1,11 @@
+# Example of a space exploration simulation program in Python
+import random
+
+def explore_space():
+    planets = ['Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+    print("Launching space exploration mission...")
+    for planet in planets:
+        print(f"Arrived at {planet}")
+        # Add code here for exploring the planet
+
+explore_space()
