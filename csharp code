@@ -1,0 +1,16 @@
+// Example code for a space simulation in Unity using C#
+using UnityEngine;
+
+public class SpaceShipController : MonoBehaviour
+{
+    private void Start()
+    {
+        Debug.Log("Space exploration mission initiated...");
+        // Add code here for controlling the spaceship
+    }
+
+    private void Update()
+    {
+        // Add code here for updating the spaceship's state
+    }
+}
